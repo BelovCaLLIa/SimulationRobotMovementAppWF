@@ -498,6 +498,7 @@ namespace SimulationRobotMovementAppWF
         // Функция для видимости объектов при нажатии книпки изменения карты
         private void visible_object(bool modeVisible)
         {
+
             if (modeVisible)
             {
                 trackBarColums.Visible = true;
